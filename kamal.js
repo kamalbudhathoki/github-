@@ -31,4 +31,4 @@
 //git commit -m "your commit message"
 //git push origin <branch_name>
 //if pull request doesnot come then you have to create it manually by going to the github repository and then click on the pull request tab and then click on the new pull request button and then select the branch that you want to merge to the main branch and then click on the create pull request button and then add a title and description for your pull request and then click on the create pull request button again to create the pull request
-//base always main or master and compare is the branch that you have created and then you want to merge to the main branch
+//base always main or master and compare is the branch that you have created and then you want to merge to the main branch..
